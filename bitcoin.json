@@ -1,4 +1,9 @@
 {
+  "ena": [
+    "bc1q5pzsptd5whcljevzyztavuqru0hugd5ymgx5ezksdqug3ztrjvmqauys2q",
+    "bc1q437jw8wqph854vf9dwxy4c2u6daveupjm5dqptj469gxw6vcpp0qfpr0mh"
+  ],
+  "core": [],
   "bbn": [
     "bc1pn6r99gggrqeaumy2jqt398atw3aj6pthkgeyy85qhjpds87rv3dsxq5c0p",
     "bc1pamzp7tegxtqrppudsvpdlfse488g7z8qwmx2j22pplskea7ggduqgt7z7p",
@@ -4757,10 +4762,5 @@
     "bc1puh96zeljr47ef7nc4qdr34av3fr3xr3mxewj2kumu8hytedp33gqp48hr3",
     "bc1phddnxe9zl4ncxz7fsq994ue05fu0kpkc57x58wwgcat5kgml6l7qzfrcuv",
     "bc1py8akeyd4894laqdrr26uklvjzddrqm9na56fxzq4umclu7syy76qsdn6el"
-  ],
-  "ena": [
-    "bc1q5pzsptd5whcljevzyztavuqru0hugd5ymgx5ezksdqug3ztrjvmqauys2q",
-    "bc1q437jw8wqph854vf9dwxy4c2u6daveupjm5dqptj469gxw6vcpp0qfpr0mh"
-  ],
-  "core": []
+  ]
 }
