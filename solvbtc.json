@@ -1,20 +1,26 @@
 {
   "bitcoin": [
     "bc1qfx0qp9f2uta7cmza6gh9wajrh62qkqyv3ce5ylxff0nh4nkjp07s5f67rc",
-    "bc1qcgs9v2s0hysrrmw5ed98k8r5890gkek7l7wq7s0aegvjxr7k9zjsz36tjz",
+    "bc1pnkj0mr9s3k47vk9q8hxk88vt2tfpzt40zlu7f7znxlfe9gjgetyqyxjm8h",
     "3MgmZFbfsXaX9w24zrGedHkMkrzoaZruGE",
     "bc1pjrxeuc9f3zqtx92s3mnf6202894jzufswur957l6s04rjns6dumsyh6u89",
+    "bc1qjxhfjk2jlytx7n3jsy0tlz5xsp3p9akxx4khzr",
+    "bc1q3x38vg626z8xzgqyfjdjvkesr3l4pvd2qvun0djt0643e4pmpfms0jzyxx",
     "bc1qaygjcgvgmnk9909c2wwjgssl27h6rasntf0u0jzfc2n9kre456ksukcdtv",
-    "bc1pkfmy7qvaagk223ytnwls7ufxftfkmw3t6yzd9nga0uhp2ctdqseqyv03sj",
-    "bc1pqeqa805n9fw4x2kzknglcvxdtf64qy9upnaxy3tg0rssvxx74ycqpy64fw",
-    "bc1pl5zf55kdgenh3k2skc626wjme495ra4xx3vy4v72f4xf6qrxc93s2q7247",
     "1Ayme2p4PDQiE3CEv665aPjEGbVRxUHF54",
+    "bc1pl5zf55kdgenh3k2skc626wjme495ra4xx3vy4v72f4xf6qrxc93s2q7247",
+    "bc1q5kj693k4evtwyxxr4xr0574smk6ehltgezntsw",
+    "bc1q3xn6rjk7e9pfx7d97eyht9pv0xs5r5p07lrazy4ad2gwv8nng9cq7adwx9",
     "bc1qkkhql4f5xuzxus0lc4qcxarmvxs2vn2zwwhdpdldwzk5em2m0heqxdxggw",
-    "bc1qp54jtw9q0ngl0epxfvs63zqr9ryhx38gtkyg2mkjxvspn3fhrfuqhqdj6f",
-    "bc1qdrr043lu8rcfza6g50pmtuss88ewfd3rkxx36sn9djc3545tcj0shdpc35",
-    "bc1qzn7r27uk34qgcu3ww2vlv3fyw5sxj7279gzwghpgcm50s5fru2vq9zyl6c",
     "bc1quyzu5xj0m4nczlfa0njzfgf8z0t7spsfz28ly5cn6v8w8mk4ra5s07ypfr",
-    "36LMbBpvUHNsG1tfteuEXmpdMK4Q8Rh8n1"
+    "bc1pqeqa805n9fw4x2kzknglcvxdtf64qy9upnaxy3tg0rssvxx74ycqpy64fw",
+    "bc1qzn7r27uk34qgcu3ww2vlv3fyw5sxj7279gzwghpgcm50s5fru2vq9zyl6c",
+    "36LMbBpvUHNsG1tfteuEXmpdMK4Q8Rh8n1",
+    "bc1pzatc4f9pkce7gz2qrh4afu3m4tjev9ycempev64upunn39wscgnq8n4qya",
+    "bc1puenp7vlr5apqjpw49c77uku0qf2gsktvjgyrar4w8xjrgchzc5jszecjjn",
+    "bc1pws8u3af4y7ak3dhx6uph690hassqdcrc8pj9tcws2gkgeue7954sdn5zm7",
+    "bc1p2m20efl7n4s75ad8mlxwqc7thmhztfy7sthfkaxymg2xwae6qcqqpqg75s",
+    "bc1qdpwl80flfh3k6h6sumzwgws3ephkrmx307hk64"
   ],
   "ethereum": {
     "otherDeposit": {
@@ -54,16 +60,6 @@
       "tokens": [
         "0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c",
         "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf"
-      ]
-    }
-  },
-  "merlin": {
-    "otherDeposit": {
-      "depositAddress": [
-        "0x6A57a8D6C4fe64B1FD6E8c3E07b0591d22B7ce7f"
-      ],
-      "tokens": [
-        "0xB880fd278198bd590252621d4CD071b1842E9Bcd"
       ]
     }
   },
